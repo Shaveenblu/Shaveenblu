@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dune+rise&weight=900&size=23&duration=4982&pause=1000&color=A5663A&center=true&vCenter=true&random=true&width=435&lines=I'm+Jude+Shaveen)](https://git.io/typing-svg"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dune+rise&weight=900&size=23&duration=4982&pause=1000&color=A5663A&vCenter=true&random=true&width=435&lines=I'm+Jude+Shaveen)](https://git.io/typing-svg"/>
 </h1>
 <!--
 **Shaveenblu/Shaveenblu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
