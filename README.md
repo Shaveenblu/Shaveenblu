@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: -->
-
-<h2 align=center>⚒️ Languages & Framework tools</h2>
-
-<img src="https://skillicons.dev/icons?i=js,tailwind,react,java,py,c,mysql"/>
-
+<div align=center>
+  <h2 align=center>⚒️ Languages & Framework tools ⚒️</h2>
+  <img src="https://skillicons.dev/icons?i=js,tailwind,react,java,py,c,mysql"/>
+</div>
 
 
