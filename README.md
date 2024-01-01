@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: -->
 <div align=center>
   <h2 align=center>⚒️ Languages & Framework tools ⚒️</h2>
-  <img src="https://skillicons.dev/icons?i=js,tailwind,react,java,py,c,mysql"/>
+  <img src="https://skillicons.dev/icons?i=js,tailwind,react,java,py,c,mysql,php"/>
 </div>
 
 
