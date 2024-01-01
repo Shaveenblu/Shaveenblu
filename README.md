@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: -->
 
+## Contact me
+
 <a href=http://www.linkedin.com/in/jude-shaveen-gomez>
-  <img src=https://skillicons.dev/icons?i=js,html,css,wasm,linkedin>
+  <img src=https://skillicons.dev/icons?i=linkedin> 
+</a>
+<a href=http://www.gmail.com/judehsvaeen>
+  <img src=https://skillicons.dev/icons?i=gmail> 
 </a>
 
