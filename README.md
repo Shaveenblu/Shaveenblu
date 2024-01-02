@@ -1,5 +1,6 @@
-<img src="https://skillicons.dev/icons?i=github"/>
-### Hi there 
+<div align=center>
+<h1> Hi there </h1><img src="https://skillicons.dev/icons?i=github"/>
+</div>
 <h1 align=center>
   <img src="https://readme-typing-svg.herokuapp.com?font=Dune+rise&weight=900&size=23&duration=4982&pause=1000&color=A5663A&vCenter=true&random=true&width=435&lines=I'm+Jude+Shaveen"/>
 </h1>
