@@ -14,14 +14,14 @@
 
 <!--Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on **immproving Fundamentals**
+- 🔭 I’m currently working on **improving Fundamentals**
 - 🌱 I’m currently learning **MERN stack**
 - 👯 I’m looking to collaborate on **Open source projects**
 <!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about **C, Java, Python**
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...-->
-- ⚡ Fun fact: **there are more lines of code in the world than grains of sand on all the beaches**
+- ⚡ Fun fact: **There are more lines of code in the world than grains of sand on all the beaches**
 <div align=center>
   <h2 align=center>⚒️ Languages & Framework tools ⚒️</h2>
   <img src="https://skillicons.dev/icons?i=js,tailwind,react,java,py,c,mysql,php"/>
