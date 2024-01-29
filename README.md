@@ -14,7 +14,7 @@
 
 <!--Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on **immproving Fundamentals**-->
+- 🔭 I’m currently working on **immproving Fundamentals**
 - 🌱 I’m currently learning **MERN stack**
 - 👯 I’m looking to collaborate on **Open source projects**
 <!--- 🤔 I’m looking for help with ...-->
