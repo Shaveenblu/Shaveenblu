@@ -24,7 +24,7 @@
 - ⚡ Fun fact: **There are more lines of code in the world than grains of sand on all the beaches**
 <div align=center>
   <h2 align=center>⚒️ Languages & Framework tools ⚒️</h2>
-  <img src="https://skillicons.dev/icons?i=js,tailwind,react,java,py,c,mysql,php"/>
+  <img src="https://skillicons.dev/icons?i=js,tailwind,react,java,py,c,mysql,php,nodejs"/>
 </div>
 
 
