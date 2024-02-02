@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Dune+rise&pause=1000&color=B7C9AA&center=true&random=false&width=435&lines=I'm+Jude+Shaveen"/>
 </h1>
 
-<h3>Sr Lanka based Software Engineering Undergraduate .</h3>
+<h3>Sri Lanka based Software Engineering Undergraduate . 👨🏽‍💻</h3>
 
 
 <!--
