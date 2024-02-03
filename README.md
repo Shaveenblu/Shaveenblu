@@ -13,11 +13,10 @@
 **Shaveenblu/Shaveenblu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!--Here are some ideas to get you started: -->
-
+<!--- 🤔 I’m looking for help with ...-->
 - 🔭 I’m currently working on **improving Fundamentals**
 - 🌱 I’m currently learning **MERN stack**
 - 👯 I’m looking to collaborate on **Open source projects**
-<!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about **C, Java, Python**
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...-->
