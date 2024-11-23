@@ -17,7 +17,7 @@
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...-->
 - 🔭 I’m currently working on **improving Fundamentals**
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Algorithms**
 - 👯 I’m looking to collaborate on **Open source projects**
 - 💬 Ask me about **C, Java, Python**
 - ⚡ Fun fact: **There are more lines of code in the world than grains of sand on all the beaches**
