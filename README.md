@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **improving Fundamentals**
 - 🌱 I’m currently learning **Algorithms**
 - 👯 I’m looking to collaborate on **Open source projects**
-- 💬 Ask me about **C, Java, Python**
+- 💬 Ask me about **PHP, Java, SQL, JavaScipt**
 - ⚡ Fun fact: **There are more lines of code in the world than grains of sand on all the beaches**
 <div align=center>
   <h2 align=center>⚒️ Languages & Framework tools ⚒️</h2>
